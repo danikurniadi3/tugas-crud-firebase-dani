@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048522097150",
+    "project_id": "datamahasiswa-50247",
+    "storage_bucket": "datamahasiswa-50247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048522097150:android:74d8ce8c22021c6878c0af",
+        "android_client_info": {
+          "package_name": "com.example.datamahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048522097150-4be5vcap1mh5umlisl5gpd5hau8nao05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkr2xpdyKuDbiOYyDXspjCSC9lLH0obI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048522097150-4be5vcap1mh5umlisl5gpd5hau8nao05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
